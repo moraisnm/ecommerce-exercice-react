@@ -1,0 +1,14 @@
+/*Usado para coisas a estilizar em geral*/
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+html, body {
+    padding:0;
+    margin:0;
+};
+
+img{
+    width: 100%;
+}
